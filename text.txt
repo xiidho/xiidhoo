@@ -1,0 +1,166 @@
+{
+  "6282156517421": {
+    "name": "dream",
+    "password": "1"
+  },
+  "6285129690306": {
+    "name": "ridho",
+    "password": "26"
+  },
+  "639483981246": {
+    "name": "debicantik",
+    "password": "revalfebrian"
+  },
+  "6285198153294": {
+    "name": "sanyourbe",
+    "password": "sann"
+  },
+  "6283172296467": {
+    "name": "10",
+    "password": "10"
+  },
+  "6285946191881": {
+    "name": "10",
+    "password": "10"
+  },
+  "6285182304001": {
+    "name": "10",
+    "password": "10"
+  },
+  "6285692248723": {
+    "name": "lan",
+    "password": "1"
+  },
+  "6283870459299": {
+    "name": "10",
+    "password": "10"
+  },
+  "6285824460752": {
+    "name": "noize",
+    "password": "noizeesigmaaa"
+  },
+  "628567310482": {
+    "name": "10",
+    "password": "10"
+  },
+  "6281233884765": {
+    "name": "ARGZSTORE",
+    "password": "ARGZST0RE"
+  },
+  "6285717198300": {
+    "name": "10",
+    "password": "10"
+  },
+  "6285718823673": {
+    "name": "uta",
+    "password": "uta"
+  },
+  "6282125963164": {
+    "name": "sann",
+    "password": "sann"
+  },
+  "6282324390429": {
+    "name": "10",
+    "password": "10"
+  },
+  "62895622573399": {
+    "name": "Hanif",
+    "password": "10"
+  },
+  "6281339537415": {
+    "name": "pinn",
+    "password": "10"
+  },
+  "6287838144434": {
+    "name": "10",
+    "password": "10"
+  },
+  "6282164204425": {
+    "name": "10",
+    "password": "10"
+  },
+  "6285824460723": {
+    "name": "noize2",
+    "password": "noizeesigmaaa2"
+  },
+  "6285396340845": {
+    "name": "ham",
+    "password": "hamxyz"
+  },
+  "6282228342941": {
+    "name": "10",
+    "password": "10"
+  },
+  "6285958048750": {
+    "name": "mallz",
+    "password": "sukaanime354"
+  },
+  "62895370431046": {
+    "name": "zzyid",
+    "password": "34"
+  },
+  "6289530520896": {
+    "name": "mallz",
+    "password": "sukaanime354"
+  },
+  "6282223286962": {
+    "name": "10",
+    "password": "10"
+  },
+  "62895405916212": {
+    "name": "panz",
+    "password": "panz"
+  },
+  "6283890977641": {
+    "name": "ibel",
+    "password": "iben9"
+  },
+  "6285169829935": {
+    "name": "repanpino",
+    "password": "iclikboyy"
+  },
+  "6285765356481": {
+    "name": "king",
+    "password": "king kodok"
+  },
+  "6282256751166": {
+    "name": "Reybot",
+    "password": "Susirey2012"
+  },
+  "6283102096893": {
+    "name": "ibel",
+    "password": "ibelp9"
+  },
+  "+62 895-3295-47707": {
+    "name": "ibel",
+    "password": "ibels6"
+  },
+  "+62 831-1568-2667": {
+    "name": "ibel",
+    "password": "ibels4"
+  },
+  "6283115682667": {
+    "name": "ibel",
+    "password": "ibels3"
+  },
+  "62895360689046": {
+    "name": "pan",
+    "password": "gameepep"
+  },
+  "6288708206686": {
+    "name": "ibel",
+    "password": "ibels2"
+  },
+  "6283138510531": {
+    "name": "ibel",
+    "password": "ibels6"
+  },
+  "6283152956289": {
+    "name": "noize3",
+    "password": "noizeesigmaaa3"
+  },
+  "6281934160255": {
+    "name": "Alya",
+    "password": "alya8"
+  }
+}
